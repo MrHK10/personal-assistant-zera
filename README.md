@@ -1,2 +1,2 @@
-# personal-assistant-zera
+# personal-assistant-kanchu
 personal assistant using python
